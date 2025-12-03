@@ -29,7 +29,7 @@ Wynik jest gotowy do otwarcia w przeglądarce, bez serwera.
 ```
 /data/      ← tutaj wrzucasz GeoJSON
 /dist/      ← tutaj pojawiają się wygenerowane mapy
-/src/       ← kod źródłowy (Program.cs)
+/OsiedlaMapGenerator/       ← kod źródłowy (Program.cs)
 README.md
 ```
 
