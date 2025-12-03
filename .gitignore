@@ -1,0 +1,23 @@
+# Build folders
+bin/
+obj/
+
+# Generated output (SVG and HTML)
+output/
+docs/
+*.svg
+*.html
+
+# IDE settings
+.vscode/
+*.user
+*.suo
+
+# Logs/temp
+*.log
+*.tmp
+*.cache
+
+# Operating system junk
+.DS_Store
+Thumbs.db
